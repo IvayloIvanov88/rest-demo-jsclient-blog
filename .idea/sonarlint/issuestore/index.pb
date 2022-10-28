@@ -7,12 +7,6 @@
 	yarn.lock,5\3\53585a096fe3a3b96321113856ae62602995a33b
 ;
 src/App.css,a\a\aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
-?
-src/App.test.js,9\2\923703ced91ac38943d37930d9d27a7ebe8f01ad
->
-src/BlogAPI.js,2\2\22d43fb759191db20a20681792580fd647620a44
-=
-src/Footer.js,b\b\bb395495f45b9a032a08724eac361dec7b70d0ae
 =
 src/Header.js,f\4\f494952b0931e3537ed49e81e759d34b5685181f
 =
